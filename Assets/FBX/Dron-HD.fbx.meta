@@ -1,0 +1,290 @@
+fileFormatVersion: 2
+guid: e4cdeac46352af04b99e2cc6da9701c4
+timeCreated: 1526722433
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ________
+    100002: Asa_Dir
+    100004: Asa_esq
+    100006: ASAS
+    100008: "Bar\xE7o_1"
+    100010: "Bar\xE7o_1_2"
+    100012: Botao
+    100014: Botao_2
+    100016: Botao_3
+    100018: Botao_4
+    100020: Centro_HELICE
+    100022: Centro_HELICE_2
+    100024: Corpo
+    100026: Cylinder
+    100028: //RootNode
+    100030: flashlight
+    100032: flashlight_2
+    100034: front_glass_1
+    100036: front_glass_1_2
+    100038: GoPro
+    100040: GoPro_Completa
+    100042: GoPro_Hero_4
+    100044: Helice
+    100046: Helice_1
+    100048: Helice_1_2
+    100050: Helice_2
+    100052: Helice_2_2
+    100054: Helice_2_3
+    100056: Helice_3
+    100058: Helice_3_2
+    100060: Helice_Movie
+    100062: Helice_Movie_1
+    100064: Lanterna
+    100066: Lanterna_1
+    100068: Pe
+    100070: Pe_2
+    100072: Pranchinha
+    100074: Pranchinha_2
+    100076: Suporte_GoPro
+    400000: ________
+    400002: Asa_Dir
+    400004: Asa_esq
+    400006: ASAS
+    400008: "Bar\xE7o_1"
+    400010: "Bar\xE7o_1_2"
+    400012: Botao
+    400014: Botao_2
+    400016: Botao_3
+    400018: Botao_4
+    400020: Centro_HELICE
+    400022: Centro_HELICE_2
+    400024: Corpo
+    400026: Cylinder
+    400028: //RootNode
+    400030: flashlight
+    400032: flashlight_2
+    400034: front_glass_1
+    400036: front_glass_1_2
+    400038: GoPro
+    400040: GoPro_Completa
+    400042: GoPro_Hero_4
+    400044: Helice
+    400046: Helice_1
+    400048: Helice_1_2
+    400050: Helice_2
+    400052: Helice_2_2
+    400054: Helice_2_3
+    400056: Helice_3
+    400058: Helice_3_2
+    400060: Helice_Movie
+    400062: Helice_Movie_1
+    400064: Lanterna
+    400066: Lanterna_1
+    400068: Pe
+    400070: Pe_2
+    400072: Pranchinha
+    400074: Pranchinha_2
+    400076: Suporte_GoPro
+    2300000: Asa_Dir
+    2300002: Asa_esq
+    2300004: "Bar\xE7o_1"
+    2300006: "Bar\xE7o_1_2"
+    2300008: Botao
+    2300010: Botao_2
+    2300012: Botao_3
+    2300014: Botao_4
+    2300016: Centro_HELICE
+    2300018: Centro_HELICE_2
+    2300020: Corpo
+    2300022: Cylinder
+    2300024: flashlight
+    2300026: flashlight_2
+    2300028: front_glass_1
+    2300030: front_glass_1_2
+    2300032: GoPro
+    2300034: GoPro_Completa
+    2300036: GoPro_Hero_4
+    2300038: Helice
+    2300040: Helice_1
+    2300042: Helice_1_2
+    2300044: Helice_2
+    2300046: Helice_2_2
+    2300048: Helice_2_3
+    2300050: Helice_3
+    2300052: Helice_3_2
+    2300054: Helice_Movie
+    2300056: Helice_Movie_1
+    2300058: Pe
+    2300060: Pe_2
+    2300062: Pranchinha
+    2300064: Pranchinha_2
+    2300066: Suporte_GoPro
+    3300000: Asa_Dir
+    3300002: Asa_esq
+    3300004: "Bar\xE7o_1"
+    3300006: "Bar\xE7o_1_2"
+    3300008: Botao
+    3300010: Botao_2
+    3300012: Botao_3
+    3300014: Botao_4
+    3300016: Centro_HELICE
+    3300018: Centro_HELICE_2
+    3300020: Corpo
+    3300022: Cylinder
+    3300024: flashlight
+    3300026: flashlight_2
+    3300028: front_glass_1
+    3300030: front_glass_1_2
+    3300032: GoPro
+    3300034: GoPro_Completa
+    3300036: GoPro_Hero_4
+    3300038: Helice
+    3300040: Helice_1
+    3300042: Helice_1_2
+    3300044: Helice_2
+    3300046: Helice_2_2
+    3300048: Helice_2_3
+    3300050: Helice_3
+    3300052: Helice_3_2
+    3300054: Helice_Movie
+    3300056: Helice_Movie_1
+    3300058: Pe
+    3300060: Pe_2
+    3300062: Pranchinha
+    3300064: Pranchinha_2
+    3300066: Suporte_GoPro
+    4300000: Botao
+    4300002: Botao_2
+    4300004: front_glass_1
+    4300006: flashlight
+    4300008: Botao_3
+    4300010: Botao_4
+    4300012: front_glass_1_2
+    4300014: flashlight_2
+    4300016: GoPro
+    4300018: GoPro_Hero_4
+    4300020: GoPro_Completa
+    4300022: Corpo
+    4300024: Cylinder
+    4300026: Suporte_GoPro
+    4300028: Asa_Dir
+    4300030: Pranchinha
+    4300032: Asa_esq
+    4300034: Pranchinha_2
+    4300036: Helice_Movie
+    4300038: Helice_Movie_1
+    4300040: Helice
+    4300042: Centro_HELICE
+    4300044: Helice_1
+    4300046: Helice_2
+    4300048: Helice_3
+    4300050: "Bar\xE7o_1"
+    4300052: Helice_2_2
+    4300054: Centro_HELICE_2
+    4300056: Helice_1_2
+    4300058: Helice_2_3
+    4300060: Helice_3_2
+    4300062: "Bar\xE7o_1_2"
+    4300064: Pe
+    4300066: Pe_2
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat
+    second: {fileID: 2100000, guid: a52d1c1ca4f0e7748b8220514708f061, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat.1
+    second: {fileID: 2100000, guid: 88a585684651b964c879dadcaea8a72e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat.2
+    second: {fileID: 2100000, guid: 44c3c90bf26340540b9ebfee649406a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Miroir 2
+    second: {fileID: 2100000, guid: 3379a2cf74e2e24409f3d54c4259b979, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: helice
+    second: {fileID: 2100000, guid: 4bb81655156f89f408df1761794ba92c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
